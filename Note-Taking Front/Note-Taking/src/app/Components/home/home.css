@@ -1,0 +1,37 @@
+.color-sidebar {
+  width:120px; /* was ~80px */
+  background-color: #fff;
+  border-right: 1px solid #eee;
+  height: 100vh;
+}
+
+.color-circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.color-circle.selected {
+  border: 2px solid #333;
+}
+
+.note-card {
+  min-height: 200px;
+  border-radius: 12px;
+  transition: transform 0.2s ease;
+}
+
+.note-card:hover {
+  transform: translateY(-5px);
+}
+
+.border-dashed {
+  border: 2px dashed #ccc;
+  min-height: 200px;
+  border-radius: 12px;
+}
+.cursor-pointer {
+  cursor: pointer;
+}

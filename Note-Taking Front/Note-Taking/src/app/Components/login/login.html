@@ -1,0 +1,70 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<div class="login-container  pt-5 mt-5">
+    <div class="login-card py-2">
+      <!-- Left Side with Image -->
+      <div class="left-side">
+        <!-- Image from Unsplash (replace with your own) -->
+        <img src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80" alt="Modern Office">
+        
+        <!-- Overlay with content -->
+        <div class="image-overlay">
+          <div class="logo">
+            <div class="logo-icon"><i class="fas fa-drafting-compass"></i></div>
+            <h3>NotesHub</h3>
+            <p class="tagline">Where creativity meets collaboration</p>
+          </div>
+          
+          <div class="welcome-text">
+            <h2>Hey! Welcome Back</h2>
+            <p>Connect with your creative community</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Side -->
+      <div class="right-side">
+        <div class="top-link">
+          <a href="#">Create a new Account</a>
+        </div>
+
+        <h2>Log in to your account</h2>
+
+<form [formGroup]="loginform" (ngSubmit)="onLogin()">
+ <div class="input-group">
+  <input type="email" placeholder="Email" class="input-field" formControlName="email" required>
+  <div *ngIf="loginform.get('email')?.touched && loginform.get('email')?.invalid" class="text-danger">
+    <small *ngIf="loginform.get('email')?.errors?.['required']">Email is required.</small>
+    <small *ngIf="loginform.get('email')?.errors?.['email']">Enter a valid email.</small>
+  </div>
+</div>
+
+<div class="input-group">
+  <div class="position-relative w-100">
+    <input [type]="showPassword ? 'password'  : 'text'"
+           placeholder="Password"
+           class="input-field pe-5"  
+           formControlName="password"
+           required>
+  
+    <i class="fas"
+       [class.fa-eye]="!showPassword"
+       [class.fa-eye-slash]="showPassword"
+       (click)="showPassword = !showPassword"
+       style="position:absolute; top: 40%; right: 10px; transform: translateY(-50%); cursor: pointer;"></i>
+       <div *ngIf="loginform.get('password')?.touched && loginform.get('password')?.invalid" class="text-danger">
+    <small *ngIf="loginform.get('password')?.errors?.['required']">Password is required.</small>
+  </div>
+  </div>
+
+
+ 
+</div>
+
+  <button class="login-button" type="submit" [disabled]="loginform.invalid">Login</button>
+</form>
+
+       
+      </div>
+    </div>
+  </div>

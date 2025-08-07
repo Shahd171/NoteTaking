@@ -1,0 +1,1174 @@
+2025-07-30 13:01:14.516 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-07-30 13:01:16.034 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1518ms
+2025-07-30 13:43:36.136 +03:00 [INF] Handling request: GET /api/Notes
+2025-07-30 13:43:36.202 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-07-30 13:43:36.483 +03:00 [INF] Handled request: GET /api/Notes => 200 in 346ms
+2025-07-30 16:28:01.613 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-07-30 16:28:03.420 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1807ms
+2025-07-30 16:29:45.765 +03:00 [INF] Handling request: POST /api/Notes
+2025-07-30 16:29:45.845 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-07-30 16:29:46.402 +03:00 [INF] Handled request: POST /api/Notes => 200 in 636ms
+2025-07-30 16:30:39.577 +03:00 [INF] Handling request: GET /api/Notes
+2025-07-30 16:30:39.692 +03:00 [INF] Handled request: GET /api/Notes => 200 in 115ms
+2025-07-30 16:31:55.400 +03:00 [INF] Handling request: GET /api/Notes/1
+2025-07-30 16:31:55.439 +03:00 [INF] Handled request: GET /api/Notes/1 => 404 in 39ms
+2025-07-30 16:32:23.478 +03:00 [INF] Handling request: GET /api/Notes/7
+2025-07-30 16:32:23.499 +03:00 [INF] Handled request: GET /api/Notes/7 => 404 in 21ms
+2025-07-30 16:32:31.600 +03:00 [INF] Handling request: GET /api/Notes/9
+2025-07-30 16:32:31.608 +03:00 [INF] Handled request: GET /api/Notes/9 => 200 in 7ms
+2025-07-30 16:33:11.738 +03:00 [INF] Handling request: PUT /api/Notes/9
+2025-07-30 16:33:11.820 +03:00 [INF] Handled request: PUT /api/Notes/9 => 200 in 82ms
+2025-08-01 15:52:05.306 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 15:52:07.705 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 2399ms
+2025-08-01 15:52:32.145 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 15:52:32.202 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 15:52:32.488 +03:00 [INF] Handled request: GET /api/Notes => 200 in 342ms
+2025-08-01 16:10:57.467 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 16:10:58.809 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1341ms
+2025-08-01 16:11:17.596 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 16:11:17.644 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 16:11:17.963 +03:00 [INF] Handled request: GET /api/Notes => 200 in 367ms
+2025-08-01 16:11:50.626 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-01 16:11:50.901 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 274ms
+2025-08-01 16:12:30.576 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 16:12:30.598 +03:00 [INF] Handled request: POST /api/Notes => 401 in 22ms
+2025-08-01 16:12:55.984 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 16:12:56.044 +03:00 [INF] Handled request: POST /api/Notes => 200 in 59ms
+2025-08-01 16:13:06.068 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 16:13:06.097 +03:00 [INF] Handled request: GET /api/Notes => 200 in 29ms
+2025-08-01 16:32:08.256 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 16:32:09.605 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1349ms
+2025-08-01 16:32:43.002 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 16:32:43.054 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 16:32:43.449 +03:00 [INF] Handled request: POST /api/Notes => 200 in 447ms
+2025-08-01 16:50:16.861 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 16:50:16.979 +03:00 [INF] Handled request: GET /api/Notes => 200 in 118ms
+2025-08-01 16:50:28.833 +03:00 [INF] Handling request: GET /api/Notes/11
+2025-08-01 16:50:28.865 +03:00 [INF] Handled request: GET /api/Notes/11 => 200 in 32ms
+2025-08-01 16:53:24.954 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 16:53:25.060 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 105ms
+2025-08-01 16:54:00.420 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 16:54:00.443 +03:00 [INF] Handled request: POST /api/Notes => 200 in 22ms
+2025-08-01 16:54:17.205 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 16:54:17.219 +03:00 [INF] Handled request: GET /api/Notes => 200 in 13ms
+2025-08-01 17:36:24.216 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-01 17:36:25.808 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1592ms
+2025-08-01 17:36:58.160 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 17:36:58.220 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 17:36:58.488 +03:00 [INF] Handled request: POST /api/Notes => 200 in 328ms
+2025-08-01 17:37:06.050 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 17:37:06.151 +03:00 [INF] Handled request: GET /api/Notes => 200 in 101ms
+2025-08-01 17:37:15.168 +03:00 [INF] Handling request: GET /api/Notes/1
+2025-08-01 17:37:15.200 +03:00 [INF] Handled request: GET /api/Notes/1 => 200 in 31ms
+2025-08-01 18:01:19.853 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-01 18:01:21.326 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1473ms
+2025-08-01 18:02:01.874 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 18:02:02.123 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 248ms
+2025-08-01 18:02:43.154 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 18:02:43.168 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 18:02:43.425 +03:00 [INF] Handled request: POST /api/Notes => 200 in 271ms
+2025-08-01 18:02:52.232 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 18:02:52.326 +03:00 [INF] Handled request: GET /api/Notes => 200 in 93ms
+2025-08-01 18:03:00.148 +03:00 [INF] Handling request: GET /api/Notes/1
+2025-08-01 18:03:00.187 +03:00 [INF] Handled request: GET /api/Notes/1 => 200 in 38ms
+2025-08-01 18:07:21.816 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 18:07:21.844 +03:00 [INF] Handled request: GET /api/Notes => 200 in 28ms
+2025-08-01 19:34:52.246 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-01 19:34:53.749 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1503ms
+2025-08-01 19:35:28.851 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 19:35:28.912 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 19:35:29.186 +03:00 [INF] Handled request: POST /api/Notes => 200 in 334ms
+2025-08-01 19:35:36.011 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 19:35:36.108 +03:00 [INF] Handled request: GET /api/Notes => 200 in 96ms
+2025-08-01 20:46:40.880 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-01 20:46:42.575 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1696ms
+2025-08-01 20:47:15.867 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 20:47:15.933 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 20:47:16.248 +03:00 [INF] Handled request: POST /api/Notes => 200 in 381ms
+2025-08-01 20:47:37.873 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 20:47:37.933 +03:00 [INF] Handled request: GET /api/Notes => 200 in 60ms
+2025-08-01 21:39:32.410 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 21:39:34.394 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1984ms
+2025-08-01 21:39:53.180 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 21:39:53.243 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 21:39:53.663 +03:00 [ERR] Failed executing DbCommand (32ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [n].[Id], [n].[Content], [n].[CreatedAt], [n].[Title], [n].[UpdatedAt], [n].[UserId], [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [Notes] AS [n]
+LEFT JOIN [ApplicationUser] AS [a] ON [n].[UserId] = [a].[Id]
+WHERE [n].[UserId] = @__userId_0
+2025-08-01 21:39:53.697 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Note_Taking_App.Infrastructure.DBContext.NotesDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:6a9a266d-b8ee-4cd4-aacb-6f4af96a54aa
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:6a9a266d-b8ee-4cd4-aacb-6f4af96a54aa
+Error Number:208,State:1,Class:16
+2025-08-01 21:39:53.714 +03:00 [INF] Handled request: GET /api/Notes => 400 in 533ms
+2025-08-01 21:40:07.173 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 21:40:07.203 +03:00 [ERR] Failed executing DbCommand (2ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [n].[Id], [n].[Content], [n].[CreatedAt], [n].[Title], [n].[UpdatedAt], [n].[UserId], [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [Notes] AS [n]
+LEFT JOIN [ApplicationUser] AS [a] ON [n].[UserId] = [a].[Id]
+WHERE [n].[UserId] = @__userId_0
+2025-08-01 21:40:07.208 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Note_Taking_App.Infrastructure.DBContext.NotesDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:6a9a266d-b8ee-4cd4-aacb-6f4af96a54aa
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:6a9a266d-b8ee-4cd4-aacb-6f4af96a54aa
+Error Number:208,State:1,Class:16
+2025-08-01 21:40:07.222 +03:00 [INF] Handled request: GET /api/Notes => 400 in 48ms
+2025-08-01 21:40:35.213 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 21:40:35.502 +03:00 [INF] Handled request: POST /api/Notes => 200 in 289ms
+2025-08-01 21:43:55.538 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 21:43:57.301 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1763ms
+2025-08-01 21:44:18.459 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 21:44:18.531 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 21:44:18.894 +03:00 [ERR] Failed executing DbCommand (14ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [n].[Id], [n].[Content], [n].[CreatedAt], [n].[Title], [n].[UpdatedAt], [n].[UserId], [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [Notes] AS [n]
+LEFT JOIN [ApplicationUser] AS [a] ON [n].[UserId] = [a].[Id]
+WHERE [n].[UserId] = @__userId_0
+2025-08-01 21:44:18.927 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Note_Taking_App.Infrastructure.DBContext.NotesDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:60af070b-d4d9-4701-9ba1-8ca203e184fd
+Error Number:208,State:1,Class:16
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid object name 'ApplicationUser'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__195_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:60af070b-d4d9-4701-9ba1-8ca203e184fd
+Error Number:208,State:1,Class:16
+2025-08-01 21:44:18.944 +03:00 [INF] Handled request: GET /api/Notes => 400 in 484ms
+2025-08-01 21:47:49.496 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 21:47:51.266 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1770ms
+2025-08-01 21:48:13.208 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 21:48:13.291 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 21:48:13.591 +03:00 [INF] Handled request: GET /api/Notes => 200 in 383ms
+2025-08-01 22:01:17.128 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 22:01:18.362 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1234ms
+2025-08-01 22:01:43.015 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 22:01:43.064 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 22:01:43.214 +03:00 [INF] Handled request: GET /api/Notes => 400 in 198ms
+2025-08-01 22:04:02.932 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 22:04:03.072 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 22:04:04.150 +03:00 [INF] Handled request: GET /api/Notes => 200 in 1218ms
+2025-08-01 22:14:39.702 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 22:14:39.822 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 22:14:41.037 +03:00 [INF] Handled request: GET /api/Notes => 200 in 1334ms
+2025-08-01 22:27:39.987 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 22:27:41.291 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1304ms
+2025-08-01 22:28:00.298 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 22:28:00.348 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 22:28:00.609 +03:00 [INF] Handled request: GET /api/Notes => 200 in 311ms
+2025-08-01 22:28:16.669 +03:00 [INF] Handling request: GET /api/Notes/2
+2025-08-01 22:28:16.717 +03:00 [INF] Handled request: GET /api/Notes/2 => 200 in 47ms
+2025-08-01 22:28:38.137 +03:00 [INF] Handling request: PUT /api/Notes/2
+2025-08-01 22:28:38.165 +03:00 [INF] Handled request: PUT /api/Notes/2 => 400 in 28ms
+2025-08-01 22:37:58.399 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 22:37:59.770 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1371ms
+2025-08-01 22:38:17.466 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 22:38:17.516 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 22:38:17.778 +03:00 [INF] Handled request: GET /api/Notes => 200 in 312ms
+2025-08-01 22:38:26.961 +03:00 [INF] Handling request: GET /api/Notes/1
+2025-08-01 22:38:27.001 +03:00 [INF] Handled request: GET /api/Notes/1 => 200 in 39ms
+2025-08-01 22:50:12.901 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 22:50:14.341 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1440ms
+2025-08-01 22:50:36.592 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 22:50:36.652 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 22:50:36.915 +03:00 [INF] Handled request: GET /api/Notes => 200 in 322ms
+2025-08-01 22:50:45.975 +03:00 [INF] Handling request: GET /api/Notes/2
+2025-08-01 22:50:46.013 +03:00 [INF] Handled request: GET /api/Notes/2 => 200 in 38ms
+2025-08-01 22:51:23.709 +03:00 [INF] Handling request: PUT /api/Notes/2
+2025-08-01 22:51:23.743 +03:00 [INF] Handled request: PUT /api/Notes/2 => 400 in 33ms
+2025-08-01 23:15:30.489 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 23:15:32.033 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1545ms
+2025-08-01 23:16:00.148 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 23:16:00.205 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 23:16:00.608 +03:00 [INF] Handled request: POST /api/Notes => 200 in 459ms
+2025-08-01 23:16:08.972 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 23:16:09.032 +03:00 [INF] Handled request: GET /api/Notes => 200 in 59ms
+2025-08-01 23:16:19.019 +03:00 [INF] Handling request: GET /api/Notes/3
+2025-08-01 23:16:19.053 +03:00 [INF] Handled request: GET /api/Notes/3 => 200 in 33ms
+2025-08-01 23:16:40.607 +03:00 [INF] Handling request: PUT /api/Notes/3
+2025-08-01 23:16:40.642 +03:00 [INF] Handled request: PUT /api/Notes/3 => 400 in 35ms
+2025-08-01 23:22:04.291 +03:00 [INF] Handling request: PUT /api/Notes/2
+2025-08-01 23:22:04.418 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 23:22:05.689 +03:00 [INF] Handled request: PUT /api/Notes/2 => 400 in 1398ms
+2025-08-01 23:22:20.977 +03:00 [INF] Handling request: PUT /api/Notes/3
+2025-08-01 23:22:21.066 +03:00 [INF] Handled request: PUT /api/Notes/3 => 400 in 89ms
+2025-08-01 23:24:05.733 +03:00 [INF] Handling request: PUT /api/Notes/3
+2025-08-01 23:24:05.862 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 23:24:07.152 +03:00 [INF] Handled request: PUT /api/Notes/3 => 400 in 1419ms
+2025-08-01 23:29:01.531 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 23:29:01.656 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 23:29:02.866 +03:00 [INF] Handled request: GET /api/Notes => 200 in 1335ms
+2025-08-01 23:29:25.224 +03:00 [INF] Handling request: PUT /api/Notes/3
+2025-08-01 23:29:25.477 +03:00 [INF] Handled request: PUT /api/Notes/3 => 200 in 252ms
+2025-08-01 23:29:37.876 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 23:29:37.894 +03:00 [INF] Handled request: GET /api/Notes => 200 in 17ms
+2025-08-01 23:29:50.525 +03:00 [INF] Handling request: DELETE /api/Notes/3
+2025-08-01 23:29:50.572 +03:00 [INF] Handled request: DELETE /api/Notes/3 => 400 in 46ms
+2025-08-01 23:31:27.887 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-01 23:31:29.184 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1297ms
+2025-08-01 23:31:50.476 +03:00 [INF] Handling request: DELETE /api/Notes/2
+2025-08-01 23:31:50.496 +03:00 [INF] Handled request: DELETE /api/Notes/2 => 401 in 20ms
+2025-08-01 23:32:13.070 +03:00 [INF] Handling request: DELETE /api/Notes/2
+2025-08-01 23:32:13.112 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-01 23:32:13.424 +03:00 [INF] Handled request: DELETE /api/Notes/2 => 200 in 353ms
+2025-08-01 23:32:22.931 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 23:32:23.009 +03:00 [INF] Handled request: GET /api/Notes => 200 in 78ms
+2025-08-01 23:32:37.336 +03:00 [INF] Handling request: GET /api/Notes/2
+2025-08-01 23:32:37.352 +03:00 [INF] Handled request: GET /api/Notes/2 => 404 in 15ms
+2025-08-01 23:32:48.899 +03:00 [INF] Handling request: GET /api/Notes/3
+2025-08-01 23:32:48.924 +03:00 [INF] Handled request: GET /api/Notes/3 => 200 in 24ms
+2025-08-01 23:33:10.382 +03:00 [INF] Handling request: PUT /api/Notes/2
+2025-08-01 23:33:10.401 +03:00 [INF] Handled request: PUT /api/Notes/2 => 404 in 19ms
+2025-08-01 23:33:30.775 +03:00 [INF] Handling request: PUT /api/Notes/1
+2025-08-01 23:33:30.837 +03:00 [INF] Handled request: PUT /api/Notes/1 => 200 in 62ms
+2025-08-01 23:33:39.324 +03:00 [INF] Handling request: GET /api/Notes/1
+2025-08-01 23:33:39.334 +03:00 [INF] Handled request: GET /api/Notes/1 => 200 in 10ms
+2025-08-01 23:33:51.454 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-01 23:33:51.526 +03:00 [INF] Handled request: POST /api/Notes => 200 in 71ms
+2025-08-01 23:33:57.621 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-01 23:33:57.641 +03:00 [INF] Handled request: GET /api/Notes => 200 in 19ms
+2025-08-02 15:42:48.167 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-02 15:42:49.591 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1424ms
+2025-08-02 15:43:14.292 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-02 15:43:14.358 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-02 15:43:14.747 +03:00 [INF] Handled request: POST /api/Notes => 200 in 455ms
+2025-08-02 15:45:53.464 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-02 15:45:53.588 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-02 15:45:55.026 +03:00 [INF] Handled request: POST /api/Notes => 200 in 1562ms
+2025-08-02 15:46:03.252 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-02 15:46:03.333 +03:00 [INF] Handled request: GET /api/Notes => 200 in 81ms
+2025-08-02 15:46:17.846 +03:00 [INF] Handling request: GET /api/Notes/4
+2025-08-02 15:46:17.891 +03:00 [INF] Handled request: GET /api/Notes/4 => 200 in 44ms
+2025-08-02 15:46:50.508 +03:00 [INF] Handling request: PUT /api/Notes/4
+2025-08-02 15:46:50.611 +03:00 [INF] Handled request: PUT /api/Notes/4 => 200 in 102ms
+2025-08-02 15:47:03.823 +03:00 [INF] Handling request: GET /api/Notes/4
+2025-08-02 15:47:03.831 +03:00 [INF] Handled request: GET /api/Notes/4 => 200 in 8ms
+2025-08-02 15:47:27.937 +03:00 [INF] Handling request: DELETE /api/Notes/5
+2025-08-02 15:47:27.962 +03:00 [INF] Handled request: DELETE /api/Notes/5 => 200 in 24ms
+2025-08-02 15:47:35.728 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-02 15:47:35.738 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-04 09:15:28.437 +03:00 [INF] Handling request: OPTIONS //auth/register
+2025-08-04 09:15:28.516 +03:00 [INF] Handled request: OPTIONS //auth/register => 404 in 79ms
+2025-08-04 09:17:38.173 +03:00 [INF] Handling request: POST //auth/register
+2025-08-04 09:17:38.228 +03:00 [INF] Handled request: POST //auth/register => 404 in 54ms
+2025-08-04 09:17:55.651 +03:00 [INF] Handling request: POST //auth/register
+2025-08-04 09:17:55.654 +03:00 [INF] Handled request: POST //auth/register => 404 in 3ms
+2025-08-04 09:26:09.470 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:26:09.690 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 220ms
+2025-08-04 09:27:09.942 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:27:09.957 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 15ms
+2025-08-04 09:27:37.491 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:27:37.504 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 12ms
+2025-08-04 09:28:18.492 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 09:28:19.809 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1316ms
+2025-08-04 09:33:05.774 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:33:05.777 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 3ms
+2025-08-04 09:34:31.887 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:34:31.890 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 2ms
+2025-08-04 09:35:44.087 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:35:44.090 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 2ms
+2025-08-04 09:35:52.414 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:35:52.417 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 2ms
+2025-08-04 09:36:22.240 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:36:22.243 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 3ms
+2025-08-04 09:39:00.743 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 09:39:00.750 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 7ms
+2025-08-04 10:10:15.145 +03:00 [INF] Handling request: POST /api/auth/register
+2025-08-04 10:10:15.371 +03:00 [INF] Handled request: POST /api/auth/register => 400 in 226ms
+2025-08-04 12:11:38.252 +03:00 [INF] Handling request: POST /Auth/register
+2025-08-04 12:11:38.329 +03:00 [INF] Handled request: POST /Auth/register => 404 in 76ms
+2025-08-04 12:12:42.961 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 12:12:44.634 +03:00 [INF] Handled request: POST /api/Auth/register => 401 in 1672ms
+2025-08-04 12:15:09.774 +03:00 [INF] Handling request: POST //Auth/register
+2025-08-04 12:15:09.779 +03:00 [INF] Handled request: POST //Auth/register => 404 in 5ms
+2025-08-04 12:19:19.840 +03:00 [INF] Handling request: POST /Auth/register
+2025-08-04 12:19:19.843 +03:00 [INF] Handled request: POST /Auth/register => 404 in 2ms
+2025-08-04 12:20:23.693 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 12:20:23.927 +03:00 [INF] Handled request: POST /api/Auth/register => 401 in 233ms
+2025-08-04 12:31:30.103 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 12:31:30.227 +03:00 [INF] Handled request: POST /api/Auth/register => 401 in 123ms
+2025-08-04 13:03:10.934 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:03:12.270 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:03:12.349 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1415ms
+2025-08-04 13:03:12.432 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 161ms
+2025-08-04 13:04:36.635 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:04:36.769 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 133ms
+2025-08-04 13:13:33.131 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:36:04.275 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:36:05.625 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 1351ms
+2025-08-04 13:36:29.101 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:36:29.370 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 268ms
+2025-08-04 13:38:55.067 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:38:55.087 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 20ms
+2025-08-04 13:42:08.863 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:42:08.867 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 3ms
+2025-08-04 13:44:08.024 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 13:44:08.028 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 3ms
+2025-08-04 14:11:30.163 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 14:11:30.293 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 130ms
+2025-08-04 14:11:39.559 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 14:11:39.649 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 89ms
+2025-08-04 14:12:25.755 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 14:12:25.883 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 128ms
+2025-08-04 14:12:45.731 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 14:12:45.833 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 101ms
+2025-08-04 14:13:14.698 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 14:13:16.403 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 1705ms
+2025-08-04 14:13:54.836 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 14:13:55.127 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 291ms
+2025-08-04 20:38:20.934 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 20:38:22.473 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1539ms
+2025-08-04 20:51:58.020 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 20:51:58.207 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 186ms
+2025-08-04 21:31:54.931 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 21:31:56.333 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1402ms
+2025-08-04 21:50:33.009 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-04 21:50:33.197 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 188ms
+2025-08-04 22:14:23.248 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-04 22:14:24.538 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1290ms
+2025-08-04 22:15:25.332 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-04 22:15:25.500 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 168ms
+2025-08-04 22:39:27.866 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 22:39:28.167 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 301ms
+2025-08-04 22:40:11.325 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-04 22:40:11.457 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 131ms
+2025-08-04 22:56:04.126 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 22:56:04.271 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 144ms
+2025-08-04 22:56:40.125 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-04 22:56:40.236 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 111ms
+2025-08-04 23:14:47.916 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-04 23:14:48.039 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 122ms
+2025-08-04 23:15:04.181 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-04 23:15:04.287 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 105ms
+2025-08-04 23:18:29.255 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-04 23:18:29.359 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 103ms
+2025-08-05 09:16:30.136 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-05 09:16:32.275 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 2139ms
+2025-08-05 09:23:53.895 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-05 09:23:54.988 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 1092ms
+2025-08-05 09:26:11.223 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-05 09:26:11.308 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 84ms
+2025-08-05 09:26:23.580 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-05 09:26:23.611 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 30ms
+2025-08-05 10:03:55.987 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 10:03:56.139 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 152ms
+2025-08-05 10:06:56.866 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 10:06:57.008 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 141ms
+2025-08-05 10:07:10.229 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 10:07:10.240 +03:00 [INF] Handled request: GET /api/Notes => 401 in 11ms
+2025-08-05 10:07:33.906 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 10:07:33.957 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-05 10:07:34.135 +03:00 [INF] Handled request: GET /api/Notes => 200 in 229ms
+2025-08-05 10:07:42.841 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 10:07:42.860 +03:00 [INF] Handled request: GET /api/Notes => 200 in 18ms
+2025-08-05 10:08:13.684 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 10:08:13.868 +03:00 [INF] Handled request: POST /api/Notes => 200 in 183ms
+2025-08-05 10:08:20.360 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 10:08:20.372 +03:00 [INF] Handled request: GET /api/Notes => 200 in 12ms
+2025-08-05 10:08:37.188 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 10:08:37.205 +03:00 [INF] Handled request: POST /api/Notes => 200 in 17ms
+2025-08-05 10:08:43.367 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 10:08:43.374 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 11:30:40.577 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:30:40.656 +03:00 [INF] Handled request: GET /api/Notes => 200 in 79ms
+2025-08-05 11:30:41.152 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:30:41.159 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 11:31:50.725 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 11:31:50.749 +03:00 [INF] Handled request: POST /api/Notes => 200 in 23ms
+2025-08-05 11:31:56.964 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:31:56.980 +03:00 [INF] Handled request: GET /api/Notes => 200 in 15ms
+2025-08-05 11:32:31.599 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:32:31.620 +03:00 [INF] Handled request: GET /api/Notes => 200 in 20ms
+2025-08-05 11:32:45.059 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:32:45.066 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 11:33:16.253 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:33:16.260 +03:00 [INF] Handled request: POST /api/Auth/login => 401 in 6ms
+2025-08-05 11:33:23.761 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:33:23.877 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 115ms
+2025-08-05 11:33:27.101 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:33:27.215 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 113ms
+2025-08-05 11:34:30.399 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:34:30.527 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 128ms
+2025-08-05 11:35:17.038 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:35:17.180 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 141ms
+2025-08-05 11:35:28.188 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:35:28.204 +03:00 [INF] Handled request: GET /api/Notes => 200 in 16ms
+2025-08-05 11:35:50.251 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:35:50.387 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 135ms
+2025-08-05 11:36:25.221 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:36:25.340 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 119ms
+2025-08-05 11:36:44.616 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:36:44.734 +03:00 [INF] Handled request: POST /api/Auth/login => 401 in 118ms
+2025-08-05 11:36:53.891 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:36:54.041 +03:00 [INF] Handled request: POST /api/Auth/login => 401 in 150ms
+2025-08-05 11:36:58.473 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:36:58.590 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 116ms
+2025-08-05 11:37:45.307 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:37:45.431 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 123ms
+2025-08-05 11:38:13.115 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:38:13.136 +03:00 [INF] Handled request: GET /api/Notes => 200 in 20ms
+2025-08-05 11:38:36.312 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 11:38:36.332 +03:00 [INF] Handled request: POST /api/Notes => 200 in 19ms
+2025-08-05 11:38:55.065 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:38:55.193 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 128ms
+2025-08-05 11:38:58.086 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:38:58.095 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 11:40:54.376 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 11:40:54.394 +03:00 [INF] Handled request: POST /api/Notes => 200 in 17ms
+2025-08-05 11:40:57.456 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:40:57.478 +03:00 [INF] Handled request: GET /api/Notes => 200 in 21ms
+2025-08-05 11:48:08.919 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:48:08.957 +03:00 [INF] Handled request: GET /api/Notes => 200 in 38ms
+2025-08-05 11:52:47.601 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:52:47.649 +03:00 [INF] Handled request: GET /api/Notes => 200 in 48ms
+2025-08-05 11:52:56.120 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:52:56.130 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
+2025-08-05 11:53:13.568 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:53:13.577 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 11:53:23.361 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:53:23.376 +03:00 [INF] Handled request: GET /api/Notes => 200 in 15ms
+2025-08-05 11:55:27.027 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 11:55:27.046 +03:00 [INF] Handled request: POST /api/Notes => 200 in 19ms
+2025-08-05 11:55:27.053 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:55:27.061 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 11:56:09.479 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:56:09.500 +03:00 [INF] Handled request: GET /api/Notes => 200 in 21ms
+2025-08-05 11:56:40.154 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 11:56:40.171 +03:00 [INF] Handled request: POST /api/Notes => 200 in 16ms
+2025-08-05 11:56:40.178 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:56:40.185 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 11:56:43.810 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:56:43.817 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 11:58:08.498 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:58:08.503 +03:00 [INF] Handled request: POST /api/Auth/login => 401 in 5ms
+2025-08-05 11:58:21.200 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 11:58:21.316 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 115ms
+2025-08-05 11:58:21.367 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:58:21.380 +03:00 [INF] Handled request: GET /api/Notes => 200 in 13ms
+2025-08-05 11:58:31.829 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 11:58:31.841 +03:00 [INF] Handled request: POST /api/Notes => 200 in 12ms
+2025-08-05 11:58:31.849 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:58:31.862 +03:00 [INF] Handled request: GET /api/Notes => 200 in 13ms
+2025-08-05 11:58:43.088 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 11:58:43.103 +03:00 [INF] Handled request: POST /api/Notes => 200 in 15ms
+2025-08-05 11:58:43.110 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:58:43.119 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 11:58:59.188 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 11:58:59.212 +03:00 [INF] Handled request: POST /api/Notes => 200 in 23ms
+2025-08-05 11:58:59.218 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 11:58:59.225 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 12:00:54.730 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:00:54.746 +03:00 [INF] Handled request: GET /api/Notes => 200 in 16ms
+2025-08-05 12:01:13.658 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:01:13.669 +03:00 [INF] Handled request: POST /api/Notes => 200 in 11ms
+2025-08-05 12:01:13.676 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:01:13.683 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 12:01:19.078 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:01:19.084 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 12:03:13.054 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:03:13.067 +03:00 [INF] Handled request: POST /api/Notes => 200 in 12ms
+2025-08-05 12:03:13.075 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:03:13.083 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 12:03:22.760 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:03:22.768 +03:00 [INF] Handled request: POST /api/Notes => 200 in 8ms
+2025-08-05 12:03:22.775 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:03:22.779 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 12:03:25.518 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:03:25.524 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 12:03:37.177 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:03:37.183 +03:00 [INF] Handled request: POST /api/Notes => 200 in 6ms
+2025-08-05 12:03:37.190 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:03:37.196 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 12:04:37.694 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:04:37.713 +03:00 [INF] Handled request: GET /api/Notes => 200 in 18ms
+2025-08-05 12:04:40.613 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:04:40.620 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 12:05:03.391 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:05:03.401 +03:00 [INF] Handled request: POST /api/Notes => 200 in 10ms
+2025-08-05 12:05:03.412 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:05:03.421 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 12:05:24.566 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:05:24.590 +03:00 [INF] Handled request: POST /api/Notes => 200 in 23ms
+2025-08-05 12:05:24.604 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:05:24.614 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
+2025-08-05 12:06:47.808 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:06:47.832 +03:00 [INF] Handled request: GET /api/Notes => 200 in 23ms
+2025-08-05 12:09:23.816 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:09:23.839 +03:00 [INF] Handled request: GET /api/Notes => 200 in 22ms
+2025-08-05 12:09:46.257 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:09:46.285 +03:00 [INF] Handled request: GET /api/Notes => 200 in 27ms
+2025-08-05 12:09:57.624 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:09:57.635 +03:00 [INF] Handled request: GET /api/Notes => 200 in 11ms
+2025-08-05 12:10:33.663 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 12:10:33.784 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 120ms
+2025-08-05 12:10:33.812 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:10:33.816 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 12:10:56.565 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:10:56.588 +03:00 [INF] Handled request: POST /api/Notes => 200 in 22ms
+2025-08-05 12:10:56.595 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:10:56.603 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 12:30:08.975 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 12:30:11.690 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 2715ms
+2025-08-05 12:30:11.741 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:30:11.770 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-05 12:30:12.222 +03:00 [INF] Handled request: GET /api/Notes => 200 in 481ms
+2025-08-05 12:30:32.626 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:30:32.819 +03:00 [INF] Handled request: POST /api/Notes => 200 in 192ms
+2025-08-05 12:30:32.825 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:30:32.838 +03:00 [INF] Handled request: GET /api/Notes => 200 in 13ms
+2025-08-05 12:34:14.719 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 12:34:14.809 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 90ms
+2025-08-05 12:34:14.832 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:34:14.842 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 12:37:28.780 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 12:37:28.884 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 103ms
+2025-08-05 12:37:28.915 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:37:28.922 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 12:37:46.233 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:37:46.246 +03:00 [INF] Handled request: POST /api/Notes => 200 in 13ms
+2025-08-05 12:37:46.258 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:37:46.265 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 12:49:38.403 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 12:49:38.508 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 104ms
+2025-08-05 12:49:38.539 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:49:38.548 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 12:50:00.310 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 12:50:00.319 +03:00 [INF] Handled request: POST /api/Notes => 200 in 9ms
+2025-08-05 12:50:00.331 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:50:00.338 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 12:52:14.266 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 12:52:14.355 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 89ms
+2025-08-05 12:52:14.381 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 12:52:14.387 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 13:01:49.864 +03:00 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Notes] (
+    [Id] int NOT NULL IDENTITY,
+    [Title] nvarchar(200) NOT NULL,
+    [Content] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL DEFAULT ((getdate())),
+    [UpdatedAt] datetime2 NULL,
+    [UserId] nvarchar(450) NULL,
+    CONSTRAINT [PK__Notes__3214EC07B6DA36D0] PRIMARY KEY ([Id])
+);
+2025-08-05 13:04:08.844 +03:00 [ERR] Failed executing DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Notes] (
+    [Id] int NOT NULL IDENTITY,
+    [Title] nvarchar(200) NOT NULL,
+    [Content] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL DEFAULT ((getdate())),
+    [UpdatedAt] datetime2 NULL,
+    [UserId] nvarchar(450) NULL,
+    [Color] nvarchar(max) NULL,
+    CONSTRAINT [PK__Notes__3214EC07B6DA36D0] PRIMARY KEY ([Id])
+);
+2025-08-05 13:05:02.286 +03:00 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Notes] (
+    [Id] int NOT NULL IDENTITY,
+    [Title] nvarchar(200) NOT NULL,
+    [Content] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL DEFAULT ((getdate())),
+    [UpdatedAt] datetime2 NULL,
+    [UserId] nvarchar(450) NULL,
+    [Color] nvarchar(max) NULL,
+    CONSTRAINT [PK__Notes__3214EC07B6DA36D0] PRIMARY KEY ([Id])
+);
+2025-08-05 13:12:36.585 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 13:12:37.867 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1282ms
+2025-08-05 13:13:43.040 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 13:13:43.097 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-05 13:13:43.481 +03:00 [INF] Handled request: POST /api/Notes => 200 in 441ms
+2025-08-05 13:14:06.581 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 13:14:06.695 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 114ms
+2025-08-05 13:14:06.728 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:14:06.788 +03:00 [INF] Handled request: GET /api/Notes => 200 in 59ms
+2025-08-05 13:14:36.012 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 13:14:36.027 +03:00 [INF] Handled request: POST /api/Notes => 200 in 15ms
+2025-08-05 13:15:25.562 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:15:25.575 +03:00 [INF] Handled request: GET /api/Notes => 200 in 13ms
+2025-08-05 13:15:40.217 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 13:15:40.240 +03:00 [INF] Handled request: POST /api/Notes => 200 in 22ms
+2025-08-05 13:15:40.250 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:15:40.257 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 13:15:58.519 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 13:15:58.532 +03:00 [INF] Handled request: POST /api/Notes => 200 in 12ms
+2025-08-05 13:15:58.537 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:15:58.545 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 13:16:02.772 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:16:02.782 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 13:16:46.254 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:16:46.261 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 13:17:49.927 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:17:49.932 +03:00 [INF] Handled request: GET /api/Notes => 401 in 5ms
+2025-08-05 13:18:06.490 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 13:18:06.589 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 98ms
+2025-08-05 13:18:06.610 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:18:06.612 +03:00 [INF] Handled request: GET /api/Notes => 401 in 1ms
+2025-08-05 13:18:18.669 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 13:18:18.772 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 103ms
+2025-08-05 13:18:18.795 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:18:18.796 +03:00 [INF] Handled request: GET /api/Notes => 401 in 1ms
+2025-08-05 13:18:40.469 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 13:18:40.561 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 91ms
+2025-08-05 13:18:40.589 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:18:40.599 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
+2025-08-05 13:20:23.790 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 13:20:23.894 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 103ms
+2025-08-05 13:20:23.917 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:20:23.927 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 13:27:01.517 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 13:27:01.620 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 103ms
+2025-08-05 13:27:01.643 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:27:01.660 +03:00 [INF] Handled request: GET /api/Notes => 200 in 16ms
+2025-08-05 13:27:39.417 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:27:39.440 +03:00 [INF] Handled request: GET /api/Notes => 200 in 22ms
+2025-08-05 13:27:57.660 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:27:57.667 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 13:27:58.845 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:27:58.852 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 13:28:11.456 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:28:11.484 +03:00 [INF] Handled request: GET /api/Notes => 200 in 27ms
+2025-08-05 13:28:26.219 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 13:28:26.230 +03:00 [INF] Handled request: POST /api/Notes => 200 in 11ms
+2025-08-05 13:28:26.241 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:28:26.248 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 13:28:31.271 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:28:31.277 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 13:28:32.692 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:28:32.720 +03:00 [INF] Handled request: GET /api/Notes => 200 in 27ms
+2025-08-05 13:28:38.832 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:28:38.837 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 13:28:41.354 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:28:41.360 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 13:29:48.473 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:29:48.489 +03:00 [INF] Handled request: GET /api/Notes => 200 in 15ms
+2025-08-05 13:29:50.730 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:29:50.734 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 13:29:51.344 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:29:51.349 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 13:29:51.596 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:29:51.602 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 13:29:51.998 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:29:52.002 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 13:34:17.527 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:34:17.546 +03:00 [INF] Handled request: GET /api/Notes => 200 in 19ms
+2025-08-05 13:34:18.435 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:34:18.441 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 13:34:19.150 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 13:34:19.155 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:12:41.557 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:12:41.571 +03:00 [INF] Handled request: GET /api/Notes => 200 in 14ms
+2025-08-05 20:12:44.323 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:12:44.328 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:12:58.590 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 20:12:58.599 +03:00 [INF] Handled request: POST /api/Notes => 200 in 8ms
+2025-08-05 20:12:58.605 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:12:58.609 +03:00 [INF] Handled request: GET /api/Notes => 200 in 3ms
+2025-08-05 20:14:28.027 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:14:28.036 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 20:15:02.445 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 20:15:02.543 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 98ms
+2025-08-05 20:15:25.449 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 20:15:25.457 +03:00 [INF] Handled request: POST /api/Notes => 200 in 7ms
+2025-08-05 20:15:31.370 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:15:31.386 +03:00 [INF] Handled request: GET /api/Notes => 200 in 15ms
+2025-08-05 20:15:47.945 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 20:15:47.955 +03:00 [INF] Handled request: POST /api/Notes => 200 in 9ms
+2025-08-05 20:15:47.963 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:15:47.969 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 20:28:54.213 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:28:54.236 +03:00 [INF] Handled request: GET /api/Notes => 200 in 23ms
+2025-08-05 20:29:27.998 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:29:28.005 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 20:29:28.944 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:29:28.949 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:30:58.161 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:30:58.171 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
+2025-08-05 20:31:14.424 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:31:14.430 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:31:21.023 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:31:21.029 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:31:54.107 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:31:54.113 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:32:02.673 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:32:02.684 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
+2025-08-05 20:33:51.197 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 20:33:51.297 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 100ms
+2025-08-05 20:33:51.319 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:33:51.326 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 20:33:58.880 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:33:58.884 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 20:34:33.733 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:34:33.741 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 20:36:01.115 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:36:01.129 +03:00 [INF] Handled request: GET /api/Notes => 200 in 13ms
+2025-08-05 20:36:01.175 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:36:01.179 +03:00 [INF] Handled request: GET /api/Notes => 200 in 3ms
+2025-08-05 20:36:26.289 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:36:26.302 +03:00 [INF] Handled request: GET /api/Notes => 200 in 12ms
+2025-08-05 20:36:39.861 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 20:36:39.957 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 95ms
+2025-08-05 20:36:39.978 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:36:39.985 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 20:36:45.007 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:36:45.012 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 20:38:44.311 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 20:38:44.410 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 99ms
+2025-08-05 20:38:44.434 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:38:44.443 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 20:39:52.421 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 20:39:52.519 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 98ms
+2025-08-05 20:39:52.540 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:39:52.546 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 20:39:56.856 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:39:56.861 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 20:47:20.245 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:47:20.268 +03:00 [INF] Handled request: GET /api/Notes => 200 in 22ms
+2025-08-05 20:47:31.867 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:47:31.885 +03:00 [INF] Handled request: GET /api/Notes => 200 in 18ms
+2025-08-05 20:47:54.863 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:47:54.873 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 20:48:16.951 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 20:48:17.052 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 100ms
+2025-08-05 20:48:17.078 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:48:17.083 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 20:48:21.560 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:48:21.566 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:48:39.009 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 20:48:39.021 +03:00 [INF] Handled request: POST /api/Notes => 200 in 12ms
+2025-08-05 20:48:39.029 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:48:39.037 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 20:48:45.404 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:48:45.409 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:53:02.348 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:53:02.365 +03:00 [INF] Handled request: GET /api/Notes => 200 in 16ms
+2025-08-05 20:53:02.367 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:53:02.376 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 20:54:15.112 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:54:15.130 +03:00 [INF] Handled request: GET /api/Notes => 200 in 18ms
+2025-08-05 20:54:15.133 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:54:15.142 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 20:55:07.327 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:55:07.337 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 20:55:35.910 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 20:55:36.001 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 90ms
+2025-08-05 20:55:36.027 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:55:36.031 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 20:57:14.611 +03:00 [INF] Handling request: PUT /api/Notes/9
+2025-08-05 20:57:14.707 +03:00 [INF] Handled request: PUT /api/Notes/9 => 200 in 96ms
+2025-08-05 20:57:14.715 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:57:14.723 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 20:57:18.648 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:57:18.658 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 20:57:36.494 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 20:57:36.503 +03:00 [INF] Handled request: POST /api/Notes => 200 in 9ms
+2025-08-05 20:57:36.509 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:57:36.514 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 20:57:48.325 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 20:57:48.334 +03:00 [INF] Handled request: POST /api/Notes => 200 in 9ms
+2025-08-05 20:57:48.340 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:57:48.348 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 20:58:25.788 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:58:25.797 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 20:58:26.157 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:58:26.162 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 20:58:27.897 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:58:27.902 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 20:58:40.493 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 20:58:40.503 +03:00 [INF] Handled request: POST /api/Notes => 200 in 9ms
+2025-08-05 20:58:40.510 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:58:40.514 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 20:59:25.499 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:59:25.508 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 20:59:26.131 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:59:26.138 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 20:59:36.026 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 20:59:36.036 +03:00 [INF] Handled request: POST /api/Notes => 200 in 10ms
+2025-08-05 20:59:36.044 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 20:59:36.049 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:00:27.901 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:00:27.912 +03:00 [INF] Handled request: GET /api/Notes => 200 in 11ms
+2025-08-05 21:00:28.156 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:00:28.162 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:00:42.216 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:00:42.226 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 21:00:56.135 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:00:56.145 +03:00 [INF] Handled request: POST /api/Notes => 200 in 10ms
+2025-08-05 21:00:56.151 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:00:56.155 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:02:24.947 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:02:24.956 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 21:02:24.958 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:02:24.964 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:02:46.199 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:02:46.212 +03:00 [INF] Handled request: POST /api/Notes => 200 in 12ms
+2025-08-05 21:02:46.220 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:02:46.228 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 21:02:55.248 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:02:55.258 +03:00 [INF] Handled request: POST /api/Notes => 200 in 10ms
+2025-08-05 21:02:55.264 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:02:55.271 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:03:06.835 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:03:06.842 +03:00 [INF] Handled request: POST /api/Notes => 200 in 7ms
+2025-08-05 21:03:06.849 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:03:06.855 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:04:13.130 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:04:13.142 +03:00 [INF] Handled request: GET /api/Notes => 200 in 11ms
+2025-08-05 21:04:13.143 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:04:13.149 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:04:55.249 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:04:55.259 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
+2025-08-05 21:04:55.307 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:04:55.312 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:05:06.577 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:05:06.588 +03:00 [INF] Handled request: POST /api/Notes => 200 in 11ms
+2025-08-05 21:05:06.597 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:05:06.603 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:05:27.252 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:05:27.258 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:05:27.259 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:05:27.265 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:06:03.139 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:06:03.158 +03:00 [INF] Handled request: GET /api/Notes => 200 in 18ms
+2025-08-05 21:06:03.166 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:06:03.178 +03:00 [INF] Handled request: GET /api/Notes => 200 in 12ms
+2025-08-05 21:06:17.312 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:06:17.323 +03:00 [INF] Handled request: POST /api/Notes => 200 in 10ms
+2025-08-05 21:06:17.328 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:06:17.337 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 21:06:28.105 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:06:28.112 +03:00 [INF] Handled request: POST /api/Notes => 200 in 6ms
+2025-08-05 21:06:28.117 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:06:28.121 +03:00 [INF] Handled request: GET /api/Notes => 200 in 3ms
+2025-08-05 21:06:47.125 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:06:47.132 +03:00 [INF] Handled request: POST /api/Notes => 200 in 6ms
+2025-08-05 21:06:47.138 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:06:47.145 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:07:02.355 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:07:02.362 +03:00 [INF] Handled request: POST /api/Notes => 200 in 6ms
+2025-08-05 21:07:02.371 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:07:02.375 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:07:18.614 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:07:18.629 +03:00 [INF] Handled request: POST /api/Notes => 200 in 15ms
+2025-08-05 21:07:18.635 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:07:18.641 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:08:41.744 +03:00 [INF] Handling request: PUT /api/Notes/9
+2025-08-05 21:08:41.764 +03:00 [INF] Handled request: PUT /api/Notes/9 => 200 in 20ms
+2025-08-05 21:08:41.773 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:08:41.781 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 21:08:56.353 +03:00 [INF] Handling request: PUT /api/Notes/10
+2025-08-05 21:08:56.365 +03:00 [INF] Handled request: PUT /api/Notes/10 => 200 in 11ms
+2025-08-05 21:08:56.373 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:08:56.380 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:09:18.257 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:09:18.270 +03:00 [INF] Handled request: POST /api/Notes => 200 in 13ms
+2025-08-05 21:09:18.276 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:09:18.284 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 21:09:29.472 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:09:29.484 +03:00 [INF] Handled request: POST /api/Notes => 200 in 11ms
+2025-08-05 21:09:29.489 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:09:29.495 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:09:37.827 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:09:37.833 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:09:38.668 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:09:38.674 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:09:40.348 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:09:40.355 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:13:41.166 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:13:41.182 +03:00 [INF] Handled request: GET /api/Notes => 200 in 16ms
+2025-08-05 21:14:10.904 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:14:10.918 +03:00 [INF] Handled request: GET /api/Notes => 200 in 13ms
+2025-08-05 21:14:37.034 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:14:37.040 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:14:37.062 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:14:37.067 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:15:57.197 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:15:57.199 +03:00 [INF] Handled request: GET /api/Notes => 401 in 1ms
+2025-08-05 21:16:15.142 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 21:16:15.244 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 102ms
+2025-08-05 21:16:15.265 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:16:15.272 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 21:16:22.718 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:16:22.723 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:22:06.246 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:22:06.274 +03:00 [INF] Handled request: GET /api/Notes => 200 in 28ms
+2025-08-05 21:22:06.275 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:22:06.281 +03:00 [INF] Handled request: GET /api/Notes => 200 in 6ms
+2025-08-05 21:22:49.709 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:22:49.727 +03:00 [INF] Handled request: GET /api/Notes => 200 in 17ms
+2025-08-05 21:22:49.940 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:22:49.945 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:23:02.696 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:23:02.700 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:24:23.643 +03:00 [INF] Handling request: DELETE /api/Notes/7
+2025-08-05 21:24:23.682 +03:00 [INF] Handled request: DELETE /api/Notes/7 => 200 in 38ms
+2025-08-05 21:24:23.693 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:24:23.702 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 21:24:26.987 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:24:26.992 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:00.229 +03:00 [INF] Handling request: DELETE /api/Notes/25
+2025-08-05 21:25:00.247 +03:00 [INF] Handled request: DELETE /api/Notes/25 => 200 in 18ms
+2025-08-05 21:25:00.259 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:00.267 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 21:25:02.994 +03:00 [INF] Handling request: DELETE /api/Notes/24
+2025-08-05 21:25:03.001 +03:00 [INF] Handled request: DELETE /api/Notes/24 => 200 in 6ms
+2025-08-05 21:25:03.007 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:03.012 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:06.078 +03:00 [INF] Handling request: DELETE /api/Notes/23
+2025-08-05 21:25:06.083 +03:00 [INF] Handled request: DELETE /api/Notes/23 => 200 in 5ms
+2025-08-05 21:25:06.095 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:06.100 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:09.159 +03:00 [INF] Handling request: DELETE /api/Notes/22
+2025-08-05 21:25:09.164 +03:00 [INF] Handled request: DELETE /api/Notes/22 => 200 in 5ms
+2025-08-05 21:25:09.171 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:09.177 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:25:11.827 +03:00 [INF] Handling request: DELETE /api/Notes/21
+2025-08-05 21:25:11.832 +03:00 [INF] Handled request: DELETE /api/Notes/21 => 200 in 5ms
+2025-08-05 21:25:11.843 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:11.848 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:14.706 +03:00 [INF] Handling request: DELETE /api/Notes/20
+2025-08-05 21:25:14.712 +03:00 [INF] Handled request: DELETE /api/Notes/20 => 200 in 5ms
+2025-08-05 21:25:14.720 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:14.725 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:25:17.343 +03:00 [INF] Handling request: DELETE /api/Notes/17
+2025-08-05 21:25:17.349 +03:00 [INF] Handled request: DELETE /api/Notes/17 => 200 in 5ms
+2025-08-05 21:25:17.360 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:17.365 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:20.122 +03:00 [INF] Handling request: DELETE /api/Notes/19
+2025-08-05 21:25:20.128 +03:00 [INF] Handled request: DELETE /api/Notes/19 => 200 in 5ms
+2025-08-05 21:25:20.134 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:20.138 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:22.437 +03:00 [INF] Handling request: DELETE /api/Notes/18
+2025-08-05 21:25:22.443 +03:00 [INF] Handled request: DELETE /api/Notes/18 => 200 in 5ms
+2025-08-05 21:25:22.456 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:22.460 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:26.793 +03:00 [INF] Handling request: DELETE /api/Notes/16
+2025-08-05 21:25:26.800 +03:00 [INF] Handled request: DELETE /api/Notes/16 => 200 in 7ms
+2025-08-05 21:25:26.806 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:26.810 +03:00 [INF] Handled request: GET /api/Notes => 200 in 3ms
+2025-08-05 21:25:29.268 +03:00 [INF] Handling request: DELETE /api/Notes/15
+2025-08-05 21:25:29.274 +03:00 [INF] Handled request: DELETE /api/Notes/15 => 200 in 5ms
+2025-08-05 21:25:29.283 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:29.288 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:31.775 +03:00 [INF] Handling request: DELETE /api/Notes/14
+2025-08-05 21:25:31.781 +03:00 [INF] Handled request: DELETE /api/Notes/14 => 200 in 6ms
+2025-08-05 21:25:31.788 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:25:31.793 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:25:57.818 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 21:25:57.923 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 105ms
+2025-08-05 21:26:22.765 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:26:22.779 +03:00 [INF] Handled request: GET /api/Notes => 200 in 13ms
+2025-08-05 21:26:38.178 +03:00 [INF] Handling request: DELETE /api/Notes/12
+2025-08-05 21:26:38.188 +03:00 [INF] Handled request: DELETE /api/Notes/12 => 200 in 9ms
+2025-08-05 21:26:38.197 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:26:38.203 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:26:44.279 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:26:44.283 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:29:07.192 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:29:07.208 +03:00 [INF] Handled request: GET /api/Notes => 200 in 16ms
+2025-08-05 21:29:14.139 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:29:14.144 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:30:01.752 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 21:30:01.848 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 96ms
+2025-08-05 21:30:01.870 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:30:01.874 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:30:16.627 +03:00 [INF] Handling request: DELETE /api/Notes/13
+2025-08-05 21:30:16.648 +03:00 [INF] Handled request: DELETE /api/Notes/13 => 200 in 20ms
+2025-08-05 21:30:16.655 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:30:16.663 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-05 21:30:18.968 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:30:18.973 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:30:44.483 +03:00 [INF] Handling request: DELETE /api/Notes/10
+2025-08-05 21:30:44.490 +03:00 [INF] Handled request: DELETE /api/Notes/10 => 200 in 6ms
+2025-08-05 21:30:44.498 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:30:44.503 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:31:11.424 +03:00 [INF] Handling request: DELETE /api/Notes/11
+2025-08-05 21:31:11.430 +03:00 [INF] Handled request: DELETE /api/Notes/11 => 200 in 6ms
+2025-08-05 21:31:11.437 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:31:11.441 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:31:14.367 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:31:14.377 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-05 21:31:24.485 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:31:24.494 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 21:31:40.562 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-05 21:31:40.572 +03:00 [INF] Handled request: POST /api/Notes => 200 in 10ms
+2025-08-05 21:31:40.578 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:31:40.583 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:31:50.317 +03:00 [INF] Handling request: PUT /api/Notes/26
+2025-08-05 21:31:50.329 +03:00 [INF] Handled request: PUT /api/Notes/26 => 200 in 11ms
+2025-08-05 21:31:50.336 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:31:50.340 +03:00 [INF] Handled request: GET /api/Notes => 200 in 3ms
+2025-08-05 21:32:02.552 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:32:02.557 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-05 21:32:11.965 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:32:11.966 +03:00 [INF] Handled request: GET /api/Notes => 401 in 1ms
+2025-08-05 21:32:30.620 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 21:32:30.723 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 103ms
+2025-08-05 21:32:30.744 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:32:30.753 +03:00 [INF] Handled request: GET /api/Notes => 200 in 8ms
+2025-08-05 21:32:34.007 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:32:34.012 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-05 21:32:43.885 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:32:43.887 +03:00 [INF] Handled request: GET /api/Notes => 401 in 1ms
+2025-08-05 21:33:01.550 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-05 21:33:01.639 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 88ms
+2025-08-05 21:33:01.659 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:33:01.663 +03:00 [INF] Handled request: GET /api/Notes => 200 in 3ms
+2025-08-05 21:33:14.041 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-05 21:33:14.045 +03:00 [INF] Handled request: GET /api/Notes => 200 in 3ms
+2025-08-07 09:17:13.877 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-07 09:17:15.158 +03:00 [INF] Handled request: POST /api/Auth/register => 400 in 1281ms
+2025-08-07 09:17:40.585 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-07 09:17:40.909 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 323ms
+2025-08-07 09:17:54.064 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-07 09:17:54.184 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 120ms
+2025-08-07 09:17:54.207 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:17:54.219 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-07 09:17:54.366 +03:00 [INF] Handled request: GET /api/Notes => 200 in 158ms
+2025-08-07 09:18:14.336 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-07 09:18:14.459 +03:00 [INF] Handled request: POST /api/Notes => 200 in 123ms
+2025-08-07 09:18:14.464 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:18:14.476 +03:00 [INF] Handled request: GET /api/Notes => 200 in 12ms
+2025-08-07 09:18:26.406 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-07 09:18:26.417 +03:00 [INF] Handled request: POST /api/Notes => 200 in 10ms
+2025-08-07 09:18:26.423 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:18:26.432 +03:00 [INF] Handled request: GET /api/Notes => 200 in 9ms
+2025-08-07 09:18:38.031 +03:00 [INF] Handling request: PUT /api/Notes/28
+2025-08-07 09:18:38.115 +03:00 [INF] Handled request: PUT /api/Notes/28 => 200 in 83ms
+2025-08-07 09:18:38.122 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:18:38.128 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-07 09:19:02.513 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:19:02.520 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-07 09:20:22.245 +03:00 [INF] Handling request: PUT /api/Notes/28
+2025-08-07 09:20:22.264 +03:00 [INF] Handled request: PUT /api/Notes/28 => 200 in 19ms
+2025-08-07 09:20:22.273 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:20:22.288 +03:00 [INF] Handled request: GET /api/Notes => 200 in 15ms
+2025-08-07 09:20:43.717 +03:00 [INF] Handling request: DELETE /api/Notes/27
+2025-08-07 09:20:43.741 +03:00 [INF] Handled request: DELETE /api/Notes/27 => 200 in 23ms
+2025-08-07 09:20:43.748 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:20:43.753 +03:00 [INF] Handled request: GET /api/Notes => 200 in 4ms
+2025-08-07 09:21:01.622 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:21:01.628 +03:00 [INF] Handled request: GET /api/Notes => 401 in 6ms
+2025-08-07 09:21:37.512 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-07 09:21:37.612 +03:00 [INF] Handled request: POST /api/Auth/login => 401 in 100ms
+2025-08-07 09:21:44.014 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-07 09:21:44.103 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 88ms
+2025-08-07 09:21:44.127 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:21:44.135 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-07 09:22:12.618 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-07 09:22:12.630 +03:00 [INF] Handled request: POST /api/Notes => 200 in 12ms
+2025-08-07 09:22:12.637 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:22:12.642 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-07 09:22:35.779 +03:00 [INF] Handling request: PUT /api/Notes/29
+2025-08-07 09:22:35.803 +03:00 [INF] Handled request: PUT /api/Notes/29 => 200 in 24ms
+2025-08-07 09:22:35.814 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 09:22:35.824 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
+2025-08-07 10:07:13.900 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-07 10:07:15.674 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 1773ms
+2025-08-07 10:07:15.705 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 10:07:15.727 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-07 10:07:16.098 +03:00 [INF] Handled request: GET /api/Notes => 200 in 392ms
+2025-08-07 10:07:36.367 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-07 10:07:36.725 +03:00 [INF] Handled request: POST /api/Notes => 200 in 358ms
+2025-08-07 10:07:36.732 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 10:07:36.752 +03:00 [INF] Handled request: GET /api/Notes => 200 in 19ms
+2025-08-07 10:08:06.791 +03:00 [INF] Handling request: PUT /api/Notes/30
+2025-08-07 10:08:06.909 +03:00 [INF] Handled request: PUT /api/Notes/30 => 200 in 117ms
+2025-08-07 10:08:06.918 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 10:08:06.934 +03:00 [INF] Handled request: GET /api/Notes => 200 in 16ms
+2025-08-07 10:08:16.209 +03:00 [INF] Handling request: DELETE /api/Notes/29
+2025-08-07 10:08:16.237 +03:00 [INF] Handled request: DELETE /api/Notes/29 => 200 in 28ms
+2025-08-07 10:08:16.246 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 10:08:16.251 +03:00 [INF] Handled request: GET /api/Notes => 200 in 5ms
+2025-08-07 10:08:19.181 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 10:08:19.189 +03:00 [INF] Handled request: GET /api/Notes => 200 in 7ms
+2025-08-07 11:19:19.925 +03:00 [INF] Handling request: POST /api/Auth/register
+2025-08-07 11:19:21.348 +03:00 [INF] Handled request: POST /api/Auth/register => 200 in 1423ms
+2025-08-07 11:19:37.841 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-07 11:19:38.008 +03:00 [INF] Handled request: POST /api/Auth/login => 401 in 166ms
+2025-08-07 11:19:42.830 +03:00 [INF] Handling request: POST /api/Auth/login
+2025-08-07 11:19:42.952 +03:00 [INF] Handled request: POST /api/Auth/login => 200 in 121ms
+2025-08-07 11:19:42.975 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 11:19:42.988 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-08-07 11:19:43.134 +03:00 [INF] Handled request: GET /api/Notes => 200 in 159ms
+2025-08-07 11:19:51.160 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-07 11:19:51.274 +03:00 [INF] Handled request: POST /api/Notes => 200 in 113ms
+2025-08-07 11:19:51.279 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 11:19:51.290 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
+2025-08-07 11:21:08.979 +03:00 [INF] Handling request: POST /api/Notes
+2025-08-07 11:21:08.997 +03:00 [INF] Handled request: POST /api/Notes => 200 in 17ms
+2025-08-07 11:21:09.004 +03:00 [INF] Handling request: GET /api/Notes
+2025-08-07 11:21:09.014 +03:00 [INF] Handled request: GET /api/Notes => 200 in 10ms
